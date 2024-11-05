@@ -13,4 +13,4 @@ images.style.width = '324px'
 const section = document.querySelector('#hide-me-area')
 section.style.display = 'none'
 
-
+document.querySelector('.mess-with-me')
